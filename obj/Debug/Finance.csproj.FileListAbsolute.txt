@@ -1,0 +1,11 @@
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\bin\Debug\Finance.exe.config
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\bin\Debug\Finance.exe
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\bin\Debug\Finance.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\obj\Debug\Finance.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\obj\Debug\Finance.Form1.resources
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\obj\Debug\Finance.Properties.Resources.resources
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\obj\Debug\Finance.csproj.GenerateResource.cache
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\obj\Debug\Finance.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\obj\Debug\Finance.exe
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\obj\Debug\Finance.pdb
+C:\Users\amand\OneDrive\Área de Trabalho\Estudos do C#(Léo)\Finance\Finance\obj\Debug\Finance.Exibir.resources
